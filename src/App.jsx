@@ -1,9 +1,9 @@
-import React from 'react'
+import Tdl from './Components/Tdl.jsx'
 
 const App = () => {
   return (
-    <main>welcome 
-      
+    <main>
+      <Tdl/>
     </main>
   )
 }
